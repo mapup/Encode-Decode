@@ -1,0 +1,14 @@
+{
+  "name": "encode-decode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encode-decode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/polyline": "^1.2.0"
+  }
+}
